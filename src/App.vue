@@ -6,10 +6,10 @@
 
 <script>
 export default {
-  name: 'Ball Distribution'
+  name: 'ballDistribution'
 }
 </script>
-6
+
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
